@@ -22,7 +22,7 @@
 # Certifications 🎖
 - Certified Data Analyst,  Cirvee (American Council of Training and Development) 
 
-# Connect with Me
+# Connect with Me 🌐
 - Email 📧 : dunmininue@gmail.com
 - LinkedIn: https://www.linkedin.com/in/emmanuel-olugbade-aa0433290
 
