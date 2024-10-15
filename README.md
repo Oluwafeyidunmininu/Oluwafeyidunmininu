@@ -7,7 +7,7 @@
 - Excel and Power BI
 - SQL and database management
 - Python programming (Pandas, NumPy, Matplotlib, Scikit-learn)
-- Data communication
+- Data Documentation
 
 # Tools and Technologies ⚒
 - Data Cleaning 📉 : Excel, PowerBI, Python, SQL
