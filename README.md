@@ -24,7 +24,7 @@
 
 # Connect with Me 🌐
 - Email 📧 : dunmininue@gmail.com
-- LinkedIn: https://www.linkedin.com/in/emmanuel-olugbade-aa0433290
+- LinkedIn: www.linkedin.com/in/emmanuel-olugbade-dunmininu
 
 🖇Let's Collaborate!
 😊Interested in collaborating on data analysis projects or exploring new ideas? Feel free to reach out!
